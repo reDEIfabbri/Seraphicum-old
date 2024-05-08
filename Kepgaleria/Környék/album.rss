@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Környék</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>P1050165</title>
+            <link>slides/P1050165.JPG</link>
+            <pubDate>Wed, 08 Apr 2015 11:34:21 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1050165.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/P1050165.JPG" width="479" height="720"/>
+            <jalbum:exif originalDate="2007.06.29. 19:53" cameraMake="Panasonic" cameraModel="DMC-FZ30"/>
+            <guid isPermaLink="false">slides/P1050165.JPG</guid>
+        </item>
+        <item>
+            <title>P1050169</title>
+            <link>slides/P1050169.JPG</link>
+            <pubDate>Wed, 08 Apr 2015 11:34:21 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1050169.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/P1050169.JPG" width="479" height="720"/>
+            <jalbum:exif originalDate="2007.06.29. 19:56" cameraMake="Panasonic" cameraModel="DMC-FZ30"/>
+            <guid isPermaLink="false">slides/P1050169.JPG</guid>
+        </item>
+        <item>
+            <title>P1050170</title>
+            <link>slides/P1050170.JPG</link>
+            <pubDate>Wed, 08 Apr 2015 11:34:21 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1050170.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/P1050170.JPG" width="479" height="720"/>
+            <jalbum:exif originalDate="2007.06.29. 19:57" cameraMake="Panasonic" cameraModel="DMC-FZ30"/>
+            <guid isPermaLink="false">slides/P1050170.JPG</guid>
+        </item>
+        <item>
+            <title>P1210315</title>
+            <link>slides/P1210315.JPG</link>
+            <pubDate>Wed, 08 Apr 2015 11:34:21 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1210315.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/P1210315.JPG" width="405" height="720"/>
+            <jalbum:exif originalDate="2013.05.19. 19:13" cameraMake="Panasonic" cameraModel="DMC-FZ30"/>
+            <guid isPermaLink="false">slides/P1210315.JPG</guid>
+        </item>
+        <item>
+            <title>P1210316</title>
+            <link>slides/P1210316.JPG</link>
+            <pubDate>Wed, 08 Apr 2015 11:34:21 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1210316.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/P1210316.JPG" width="405" height="720"/>
+            <jalbum:exif originalDate="2013.05.19. 19:18" cameraMake="Panasonic" cameraModel="DMC-FZ30"/>
+            <guid isPermaLink="false">slides/P1210316.JPG</guid>
+        </item>
+        <item>
+            <title>P1210386</title>
+            <link>slides/P1210386.JPG</link>
+            <pubDate>Wed, 08 Apr 2015 11:34:21 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/P1210386.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="slides/P1210386.JPG" width="405" height="720"/>
+            <jalbum:exif originalDate="2013.05.20. 11:42" cameraMake="Panasonic" cameraModel="DMC-FZ30"/>
+            <guid isPermaLink="false">slides/P1210386.JPG</guid>
+        </item>
+    </channel>
+</rss>

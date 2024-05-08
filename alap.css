@@ -1,0 +1,196 @@
+body {
+	background-color: #DCDCDC;
+	font-family: Verdana, Tahoma, sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	color: #336699;
+	text-align: justify;
+	background-repeat: no-repeat;
+}
+#Keret {
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#Alapitvany {
+	color: #FFF;
+	background-color: rgba(255,228,174,0.5);
+	width: 80%;
+	border-radius: 20px;
+	text-align: justify;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 12px;
+	white-space: normal;
+	-webkit-transition: all cubic-bezier(x1,y1,x2,y2);
+	-moz-transition: all cubic-bezier(x1,y1,x2,y2);
+	-ms-transition: all cubic-bezier(x1,y1,x2,y2);
+	-o-transition: all cubic-bezier(x1,y1,x2,y2);
+	transition: all cubic-bezier(x1,y1,x2,y2);
+}
+
+.Kep_jobbra {
+	float: right;
+	padding-left: 8px;
+	padding-right: 12px;
+	margin-bottom: 24px;
+}
+#Plakat {
+	margin-top: 24px;
+}
+
+.Kep_balra {
+	float: left;
+	padding-right: 8px;
+}
+
+
+
+
+td, th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	color: #CCC;
+}
+
+a {
+	color: #FFCC00;
+	text-decoration: none;
+}
+.gridContainer.clearfix #Tartalom #TabMenu .TabbedPanelsContentGroup .TabbedPanelsContent.TabbedPanelsContentVisible #Felhivas {
+	color: #251613;
+	background-color: #FC6;
+	text-align: center;
+	padding: 16px;
+	margin-top: 0px;
+	margin-right: 32px;
+	margin-bottom: 16px;
+	margin-left: 32px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+}
+
+
+form {
+	background-color: #CCCC99;
+}
+
+.title {
+	font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+	line-height: 30px;
+  background-color: #006666;
+	color: #DCDCDC;
+}
+
+.subtitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 22px;
+	font-weight: bold;
+  color: #006666;
+}
+
+.header {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	background-color: #006666;
+  color: #DCDCDC;
+}
+
+.nav {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+  font-weight: bold;
+	background-color: #CCCCCC;
+}
+
+.navLink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	background-color: #DEDECA;
+}
+
+.sidebar {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	padding: 3px;
+	background-color: #FFFFFF;
+}
+
+.sidebarHeader {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	color: #FFFFFF;
+	background-color: #339999;
+}
+
+.sidebarFooter {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	background-color: #CCCCCC;
+}
+
+.footer {
+  font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 22px;
+	color: #333333;
+	background-color: #CCCCCC;
+}
+
+.legal {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #333333;
+}
+
+.box1 {
+	border-color: #CCCCCC #333333 #333333 #CCCCCC;
+	border-width: medium;
+  border-style: ridge;
+}
+
+.promo {
+	font-family: "Times New Roman", Times, serif;
+	color: #000033;
+}
+
+.titlebar {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 9px;
+	color: #FFFFFF;
+  background-color: #336699;
+}
+
+.dingbat {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #99CC99;
+	color: #006666;
+	font-weight: bolder;
+	font-size: medium;
+}
+
+a:hover {
+	color: #FF9;
+}
+
+input.big {
+	width: 100px;
+}
+
+input.small {
+	width: 50px;
+}
+#Fejlec {
+	width: 100%;
+	overflow: visible;
+}

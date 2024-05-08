@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Lelkigyakorlatok</title>
+   	<link>..</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="2005 Pécs és környéke/album.rss" />   	
+    	<jalbum:link rel="sub" href="2006 Pálosszentkút/album.rss" />   	
+    	<jalbum:link rel="sub" href="2012 Mátraverebély Szentkút/album.rss" />   	
+        
+    </channel>
+</rss>
